@@ -11,7 +11,7 @@ Comments: Use of Gird Search for Hyperparameter Tuning, Pipelines for Automation
 Tools Used: scikit-learn
 
 #### 3. Ensembles: Model Ensembles for Classification
-Preprocessing: - (None Required) *Could be helpful for Classifiers using MLPs
-Comments: Voting, Stacking and Homogenous Models
-Models Used: Linear, SVMs, Boosting, MLPs
+Preprocessing: - (None Required) *Could be helpful for Classifiers using MLPs <br/>
+Comments: Voting, Stacking and Homogenous Models <br/>
+Models Used: Linear, SVMs, Boosting, MLPs <br/>
 Tools Used: scikit-learn, xgboost (optional)
