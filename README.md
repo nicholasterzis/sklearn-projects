@@ -7,7 +7,7 @@ Tools Used: scikit-learn (only for train_test_split)
 
 #### 2. DecisionTrees: Decision Tree classifier pipelines
 Preprocessing: Imputer, One-Hot Encoder <br/>
-Comments: Use of Gird Search for Hyperparameter Tuning, Pipelines for Automation and different metrics for evaluation <br/>
+Comments: Use of Grid Search for Hyperparameter Tuning, Pipelines for Automation and different metrics for evaluation <br/>
 Tools Used: scikit-learn
 
 #### 3. Ensembles: Model Ensembles for Classification
